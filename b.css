@@ -1,0 +1,323 @@
+.page-width{
+    width:1280px;
+    margin: 0 auto;
+}
+a{
+   text-decoration: none;
+   
+}
+.back-top div{
+    display: inline-block;
+  
+}
+.back-top{
+    margin: 12px 0;
+}
+.tr{
+    width: 49%;
+}
+.tr img{
+    width:200px;
+    height:59px;
+    
+}
+.ph{
+    width: 49%;
+}
+.ph h3{
+   float: right;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.thanh-dai{
+    width: 100%;
+    height:51px;
+    background-color:#c8a977;
+}
+.thanh-dai .trai{
+    width:65%;
+    float: left;
+}
+.thanh-dai .phai{
+    width: 34%;
+    float: right;
+}
+.trai .an  {
+  font-size: 20px;
+ line-height: 18px;
+ padding: 0 30px;
+ color: #fff;
+}
+.trai .an1{
+    font-size: 20px;
+    line-height: 18px;
+    padding: 0 30px;
+    color: #fff;
+}
+.trai ul .tt{
+    display: inline-block;
+    position: relative;
+   
+}
+ul li:hover .tt1{
+    display: block;
+}
+.tt1 {
+  position: absolute;  
+  left: -3px;
+  top: 35px;
+  display: none;
+ 
+}
+ .tt1 li {
+    height:20px;
+    width:170px;
+    border-bottom: 0.1px solid rgba(0, 0, 0, 0.242);
+    margin: 0;
+    padding: 15px;
+    font-size: 18px;
+    
+}
+ul li a{
+    cursor: pointer;
+}
+
+ul li:hover .tt2{
+    display: block;
+}
+.tt2 {
+  position: absolute;  
+  left: -3px;
+  top: 35px;
+  display: none;
+ 
+}
+.tt2 li{
+    height:20px;
+    width:385px;
+    border-bottom: 0.1px solid rgba(0, 0, 0, 0.242);
+    margin: 0;
+    padding: 15px;
+    font-size: 18px;
+    transition: -5s;
+}
+
+ul li:hover .tt3{
+    display: block;
+}
+.tt3 {
+  position: absolute;  
+  left: -3px;
+  top: 35px;
+  display: none;
+ 
+}
+.tt3 li{
+    height:20px;
+    width:180px;
+    border-bottom: 0.1px solid rgba(0, 0, 0, 0.242);
+    margin: 0;
+    padding: 15px;
+    font-size: 18px;
+    
+}
+.trai .tt ul li{
+    background-color:#f4f4f4;
+}
+.phai input{
+    width: 200px;
+    height: 30px;
+    margin: 7px 20px;
+    float: right;
+    padding: 0 7px;
+}
+.anh-to img{
+    width: 100%;
+    height:auto;
+}
+.may-moc .left{
+   width: 68%;
+   float: left;
+}
+.may-moc .right{
+   width: 31%;
+   float: right;
+}
+.backgr{
+    background-color: #f4f4f4;
+    clear: both;
+    height:335px;
+    padding: 100px 0;
+}
+.left1{
+    width: 50%;
+    float: left;
+}
+.right1{
+    width: 49.5%;
+    float: right;
+}
+.dich-vu .dich-vu1{
+    width: 24.5%;
+    float: left;
+    padding-bottom: 30px;
+  
+}
+.dich-vu1 a{
+    text-align: center;
+    display: block  ;
+    
+}
+.backgr2{
+    height:700px;
+    background-color: #c7a877;
+    clear: both;
+}
+.bs .bs1{
+    width: 30%;
+    text-align: center;
+    float: left;
+    padding: 0 21px;
+}
+.bs1 img{
+    background-color: #fff;
+}
+.bs1 a{
+    display: block;
+    color: #fff;
+    padding-top: 10px;
+}
+.tips1{
+    width: 308px;
+    text-align: center;
+    display: inline-block; 
+    height:285px;
+    padding: 0 20px;
+}
+.tips1 img{
+    width: 100%;
+}
+.nen{
+    background-color: rgba(0, 0, 0, 0.064);
+    padding-bottom: 30px;
+    height:555px;
+    clear: both;
+}
+.b-tr{
+    width: 50%;
+    float: left;
+   
+}
+.b-ph{
+    width: 42%;
+    float: right;
+    padding-left: 90px;
+}
+.ban-do{
+    border: 5px solid #fff;
+    margin: 15px;
+}
+.b-ph p{
+    line-height: 30px ;
+    padding: 20px 15px;
+    margin: 0;
+    font-size: 18px;
+}
+.padding{
+    border-bottom:1px solid rgba(0, 0, 0, 0.541) ;
+}
+.email{
+    margin-top: 35px;
+    
+}
+.email input{
+    width:369px;
+    height:40px;
+}
+.email button{
+  width: 100px;
+  height:46px;
+}
+.input{
+  display: flex;
+}
+.input button{
+    background-color: #3d3d3d;
+    cursor: pointer;
+     color: #fff;
+}
+.chan-trang{
+    background-color: #c7a877;
+    height: 78px;
+    padding: 15px 0;
+}
+.tips1 a{
+    white-space: normal;
+}
+.gt .left2{
+    float: left;
+    width: 65%;
+}
+.gt .right2{
+    float: right;
+    width: 25%;
+    padding:0 30px;
+}
+.left2 h1{
+    margin: 36px 0 11px 0;
+    text-align: center;
+    color:#484848;
+}
+.left2 p{
+    display: inline-block;
+    font-size: 17.5px;
+}
+.right2 h1{ 
+    color:#484848;
+    margin-bottom: 0;
+    
+}
+.tips0 .left3{
+    float: left;
+    width: 65%;
+}
+.tips0 .right3{
+    float: right;
+    width: 30%;
+    padding:0 30px;
+}
+.left3 h1{
+    margin: 36px 0 11px 0;
+    text-align: center;
+    color:#484848; 
+}
+.right3 h1{
+    color:#484848;
+    margin-bottom: 0;
+}
+.item{
+    clear: both;
+}
+.item .item1{
+    height: 460px;
+    width: 254px;
+    clear: both;
+    display: inline-block;
+    padding: 0 10px;
+}
+.item1 img{
+    width: 100%;
+
+}
+.item1 p{
+    font-size: 21px;
+}
+.item1 .a2{
+   color: #c8a977;
+   font-size: 19px;
+}
+.a2:hover{
+    color: #006ba1;
+}
